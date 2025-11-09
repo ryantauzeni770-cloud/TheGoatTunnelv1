@@ -1,0 +1,47 @@
+[
+  {
+    "name": "United States - Fast Proxy",
+    "country": "USA",
+    "flag": "us.png",
+    "host": "us.thegoattunnel.xyz",
+    "port": 8080,
+    "mode": "PROXY",
+    "sni": ""
+  },
+  {
+    "name": "Zimbabwe - Econet",
+    "country": "Zimbabwe",
+    "flag": "zw.png",
+    "host": "zim.thegoattunnel.xyz",
+    "port": 443,
+    "mode": "SNI",
+    "sni": "www.econet.co.zw"
+  },
+  {
+    "name": "Brazil - Sao Paulo",
+    "country": "Brazil",
+    "flag": "br.png",
+    "host": "br.thegoattunnel.xyz",
+    "port": 443,
+    "mode": "SNI",
+    "sni": "globo.com"
+  },
+  {
+    "name": "Germany - Speed Node",
+    "country": "Germany",
+    "flag": "de.png",
+    "host": "de.thegoattunnel.xyz",
+    "port": 80,
+    "mode": "WS",
+    "sni": ""
+  },
+  {
+    "name": "Singapore - SG Node",
+    "country": "Singapore",
+    "flag": "sg.png",
+    "host": "sg.thegoattunnel.xyz",
+    "port": 443,
+    "mode": "SNI",
+    "sni": "singtel.com"
+  }
+]
